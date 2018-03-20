@@ -1,0 +1,31 @@
+<resources>
+    <string name="p_currency_hint">Insert currency..</string>
+    <string name="p_title_activity">Currency Converter</string>
+    <string name="p_select_currency">Select Currency</string>
+    <string name="p_from_currency">From:</string>
+    <string name="p_to_currency">To:</string>
+    <string name="p_amount">Amount: </string>
+    <string name="p_no_value">---</string>
+    <string name="p_history_header">Previous choices</string>
+
+
+    <string name="p_formatted_from">Value (%1$s): </string>
+    <string name="p_formatted_to">Result (%1$s): </string>
+
+    <string-array name="p_currency_name_array">
+        <item>---</item>
+        <item>AUD</item>
+        <item>USD</item>
+        <item>SEK</item>
+        <item>EUR</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="p_currency_rate_array">
+        <item>0.00</item>
+        <item>6.41</item>
+        <item>8.20</item>
+        <item>1.00</item>
+        <item>9.64</item>
+        <item>1.24</item>
+    </string-array>
+</resources>
